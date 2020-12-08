@@ -1,4 +1,17 @@
 #welcome {
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	text-align: center;
+	font-style: oblique;
+}
+
+.articleEntry h3 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.articleEntry p {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.articleEntry a {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
