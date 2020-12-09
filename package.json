@@ -1,0 +1,19 @@
+{
+  "name": "neoteric-marxist-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TogoorooDev/neoteric-marxist-library.git"
+  },
+  "author": "Luna Hensley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TogoorooDev/neoteric-marxist-library/issues"
+  },
+  "homepage": "https://github.com/TogoorooDev/neoteric-marxist-library#readme"
+}
